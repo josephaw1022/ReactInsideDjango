@@ -1,0 +1,9 @@
+# Django / Python stuff
+env/
+*.pyc
+*.sqlite3
+pipfile.lock
+
+# JavaScript stuff
+node_modules/
+build/
